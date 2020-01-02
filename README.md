@@ -11,5 +11,5 @@ games ranging from ps1 till dreamcast.
 Right now the Raspberry Pi version is up for download. We are planning to make an OrangePI-Lite version aswell + an x86 version
 
 ****************************************************************************************************************************************************************************************
-This operating system is based on RetroArch and just makes it easier to setup a retro gaming console, also PiEmu is optimised so it can run games much faster than stok retroarch
+This operating system is based on RetroArch and just makes it easier to setup a retro gaming console, also PiEmu is optimised so it can run games much faster than stock retroarch
 ****************************************************************************************************************************************************************************************
